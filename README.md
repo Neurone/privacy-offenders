@@ -6,6 +6,7 @@ I put the list here as a reminder for me and for anyone allergic to disgusting a
 
 Title | Platform | Store | Offline
 | :--- | :--- | :--- | :--- |
+[REDACTED] | PC Windwos | Epic Store | No
 Aliens: Dark Descent | PC Windows | Epic Store | No
 Death's Gambit: Afterlife | PC Windows | Steam | No
 Red Dead Redemption 2 | PC Windows | Epic Store, Steam | No
